@@ -1,6 +1,6 @@
 # Leave App
 
-Note: Run this project with      flutter run --no-sound-null-safety
+Note:- Run this project with    :  flutter run --no-sound-null-safety
 
 A new Flutter project.
 
